@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Digeste Issue #1"
-date: {}
+date: null
 categories: _post
 author: pia_pandelakis
 published: true
 ---
+
 
 
 Le premier numéro du Digeste... et ses premières pépites à lire, écouter, partager...
