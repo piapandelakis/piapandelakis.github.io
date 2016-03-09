@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digeste Issue #1"
-date: null
+date: 2016-03-09
 categories: _post
 author: pia_pandelakis
 published: true
