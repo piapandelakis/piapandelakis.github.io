@@ -9,6 +9,7 @@
 #masthead {
 	padding: $gutter;
 	z-index: 5;
+	background-image: url('../images/backheader.jpg');
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -27,11 +28,15 @@
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
+	background-color: $white;
+	padding-left: 10px;
 	font-family: $alt-font;
 	font-weight: 700;
-	@include font-size(20,no);
+	/*@include font-size(20,no);*/
+	font-size: 30px;
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
+	letter-spacing: 0.25em;
 }
 
 
