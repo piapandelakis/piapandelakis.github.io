@@ -26,6 +26,7 @@
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
+	max-width: 850px;
 	text-decoration: none;
 	color: $black;
 	background-color: $white;
@@ -37,6 +38,13 @@
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
+}
+
+h6.tagline{
+	background-color: #fff;
+	padding: 3px 0 2px 5px;
+	max-width: 600px;
+	margin-bottom: 15px;
 }
 
 
@@ -60,6 +68,7 @@
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
+			letter-spacing: 0.15em;
 			&:before,
 			&:after {
 				content: '';
@@ -91,6 +100,10 @@
 .top-menu {
 	display: none;
 	position: relative;
+	background-color: #fff;
+	padding: 5px 0 0 8px;
+	max-height: 50px;
+	max-width: 850px;
 	@include media($medium) {
 		@include span-columns(12);
 	}
@@ -109,7 +122,7 @@
 		a {
 			font-weight: 700;
 			@include font-size(16,no);
-			line-height: .5 * $masthead-height; // half the height to center vertically
+			line-height: 1em;
 			color: $black;
 			text-transform: uppercase;
 		}
@@ -301,6 +314,7 @@
 		}
 	}
 }
+
 
 /*
    Page footer
