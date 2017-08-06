@@ -1,12 +1,30 @@
 #authors
-author: 
-- name : pia_pandelakis
-  surname: Pia Pandelakis
+
+pia_pandelakis:
+  name : Pia Pandelakis
   web: piapandelakis.com
   email: pia.pandelakis@gmail.com
   bio: "Hello, I'm an associate professor"
   avatar: bio-photo.jpg
   twitter: PiaP
+
+carole_nosella:    
+  name: Carole Nosella   
+  email: john@website.com
+
+francois_legroux:
+  name: François Legroux
+  email: rms@gnu.org
+
+julie_thebault:
+  name: Julie Thebault
+  email:
+
+
+
+
+
+
 
 
 

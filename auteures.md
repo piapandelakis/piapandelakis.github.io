@@ -8,7 +8,9 @@ title: "Auteur.e.s"
 <ul>
     {% for author in site.data.authors %}
     <li>
-        {{ author.name }}
+    <a href="/auteures/" itemprop="author">
+      {{author[1].name}} <br>
+        </a>
     </li>
     {% endfor %}
 </ul>
