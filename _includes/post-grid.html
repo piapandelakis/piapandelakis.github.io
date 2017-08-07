@@ -3,7 +3,7 @@
     {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
   {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%d/%m/%Y" }}" itemprop="datePublished">{{ post.date | date: "%d/%m/%Y" }}</time></p>{% endif %}
 
-   <p>écrit par {% if post.author %}<a href="/auteures/" itemprop="author">
+   <p class="auteur-post">par {% if post.author %}<a href="/auteures/" itemprop="author">
 			{{ site.data.authors[post.author].name }}
 		</a></p>{% endif %}
 

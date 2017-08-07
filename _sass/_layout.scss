@@ -166,6 +166,12 @@ h6.tagline{
 	
 }
 
+.auteur-post{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 0.85em;
+}
+
 @media (max-width: 600px){
 	.post{
 		 width: 100%;
@@ -197,10 +203,10 @@ h6.tagline{
 			// cleaner underlines for links
 			a { text-decoration: none; }
 			p a,
-			li a {
+			li a, aside a {
 				border-bottom: 1px dotted lighten($link-color, 50);
 				&:hover {
-					border-bottom-style: solid;
+					background-color: #93ffe4;
 				}
 			}
 			p > a.reversefootnote {
@@ -371,11 +377,41 @@ h6.tagline{
 
 .auteur-fiche{
 	display: block;
-	border: solid 1px #000;
+	border: solid 1px #000 !important;
 	padding: 10px;
-	float: left;
-	background-color: red;
-	
+	float: left;	
+	min-height: 370px;
+	 @include media(new-breakpoint(min-width em(480) 12)) {
+    @include span-columns(3);
+    @include omega(4n);
+  }
+}
+
+.auteur-title{
+	text-align: center;
+}
+
+.auteur-img{
+	height: 120px;
+	border-radius: 60px;
+	border: solid 1px black;
+}
+
+.auteur-name{
+	font-family: $alt-font;
+
+}
+
+.auteur-bio{
+	font-size: 0.95em;
+	margin-bottom: 0;
+}
+
+.auteur-sujets{
+	font-size: 0.8em;
+	font-family: $alt-font;
+	border-top: 1px dotted #000;
+	padding-top: 8px;
 }
 
 

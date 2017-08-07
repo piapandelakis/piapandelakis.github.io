@@ -4,21 +4,26 @@ pia_pandelakis:
   name : Pia Pandelakis
   web: http://piapandelakis.com
   email: pia.pandelakis@gmail.com
-  bio: "Hello, I'm an associate professor"
-  avatar: bio-photo.jpg
+  bio: "Maître de conférences, graphiste, féministe, genderqueer"
+  sujets: "Féminisme, Queer theory, technologies & apps, Cinedesign"
+  avatar: avatar-pia.png
   twitter: PiaP
 
 carole_nosella:    
-  name: Carole Nosella   
+  name: John Doe   
   email: john@website.com
+  bio: "Masseur & Jardinier"
+  avatar: avatar-empty.png
 
 francois_legroux:
-  name: François Legroux
+  name: Jane Doe
   email: rms@gnu.org
+  avatar: avatar-empty.png
 
 julie_thebault:
-  name: Julie Thebault
+  name: Jim Doe
   email:
+  avatar: avatar-empty.png
 
 
 
