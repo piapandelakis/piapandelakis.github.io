@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /auteures
+permalink: /auteures/
 title: "Auteur.e.s" 
 ---
 

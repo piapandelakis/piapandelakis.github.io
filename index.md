@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /index/
+permalink: index
 title: "Dernières Cuvées" 
 ---
 
