@@ -6,6 +6,10 @@
    Masthead
    ========================================================================== */
 
+.clearfloat{
+	clear: both;
+}
+
 #masthead {
 	padding: $gutter;
 	z-index: 5;
@@ -153,6 +157,18 @@ h6.tagline{
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
 		@include transform(translate(-60rem,0));
+	}
+}
+
+.post{
+	width: 75%;
+	margin: 0 auto;
+	
+}
+
+@media (max-width: 600px){
+	.post{
+		 width: 100%;
 	}
 }
 
@@ -324,7 +340,7 @@ h6.tagline{
 	position: relative;
 }
 
-/* Author block */
+/* Author block - non used by Pia */
 
 .author-image {
 	position: absolute;
@@ -347,6 +363,21 @@ h6.tagline{
 	margin-top: 0;
 	@include font-size(16);
 }
+
+/* Auteur - fiche */
+.liste-auteur{
+	list-style-type: none;
+}
+
+.auteur-fiche{
+	display: block;
+	border: solid 1px #000;
+	padding: 10px;
+	float: left;
+	background-color: red;
+	
+}
+
 
 /*
    Site footer

@@ -5,13 +5,13 @@ title: "Auteur.e.s"
 ---
 
 <div>
-<ul>
+<ul class="liste-auteur">
     {% for author in site.data.authors %}
-    <li>
-    <a href="/auteures/" itemprop="author">
-      {{author[1].name}} <br>
-        </a>
+    <li class="auteur-fiche">
+      <a href="{{author[1].web}}">{{author[1].name}}</a> <br>
+      {{author[1].bio}} 
     </li>
     {% endfor %}
 </ul>
+<div class="clearfloat"></div>
 </div>
