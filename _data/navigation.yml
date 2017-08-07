@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: Home
-  url: /index.html/
+  url: /index/
   excerpt: ""
 
 - title: À propos
-  url: /about.html/
+  url: /about/
   excerpt: ""
 
 - title: Auteur.e.s
-  url: /auteures.html/
+  url: /auteures/
   excerpt: ""
