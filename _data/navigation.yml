@@ -1,14 +1,14 @@
 # Site navigation links
 
 - title: Home
-  url: index/
+  url: /index/
   excerpt: ""
 
 - title: À propos
-  url: about/
+  url: /about/
   excerpt: ""
 
 - title: Auteur.e.s
-  url: auteures/
+  url: /auteures/
   excerpt: 
   image:
