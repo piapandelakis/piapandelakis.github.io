@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Home
-  url: /index/
+  url: /index.html/
   excerpt: ""
 
 - title: À propos
@@ -9,6 +9,6 @@
   excerpt: ""
 
 - title: Auteur.e.s
-  url: /auteures/
+  url: /auteures.html/
   excerpt: 
   image:
