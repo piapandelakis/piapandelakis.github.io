@@ -1,5 +1,6 @@
 ---
 layout: article
+permalink: /about/
 title: "À propos" 
 ---
 
