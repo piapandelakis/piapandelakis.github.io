@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Home
-  url: /index.html/
+  url:  "{{ site.baseurl }}/index.html/"
   excerpt: ""
 
 - title: À propos
