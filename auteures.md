@@ -13,6 +13,7 @@ title: "Auteur.e.s"
      	 	<p><a href="{{author[1].web}}" class="auteur-name">{{author[1].name}}</a></p> 
      		<p class="auteur-bio">{{author[1].bio}}</p>
      		<p class="auteur-sujets">{{author[1].sujets}}</p>
+     	</div>
     </li>
     {% endfor %}
 </ul>
