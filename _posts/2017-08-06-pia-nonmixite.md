@@ -56,11 +56,13 @@ image:
 <p>Celui dont vous jouissez, Madame Hidalgo, en tant que membre de la classe politique française. Et vous venez d’utiliser ce privilège pour faire taire, pour priver d’un espace des femmes afrodescendantes qui en sont systématiquement privées. Je vous adresse donc cette petite lettre en vous suggérant d’examiner votre privilège — après, si vous le souhaitez, nous parlerons tolérance.</p>
 
 <p>Pour aller plus loin :</p>
-
- <a href="https://feministkilljoys.com/2014/11/04/white-men/">White Men</a>, par la philosophe Sara Ahmed (en anglais).
- Le blog de <a href="https://mrsroots.fr/">Mrs Roots</a>.
- Le blog <a href="https://badassafrofem.wordpress.com/">badassafrofem</a>.
- <a href="https://theestablishment.co/welcome-to-the-anti-racism-movement-heres-what-you-ve-missed-711089cb7d34">Ce post</a> (et tous les autres) de <a href="https://theestablishment.co/@IjeomaOluo">Ijeoma Oluo</a> (en anglais).
+<ul>
+<li>
+ <a href="https://feministkilljoys.com/2014/11/04/white-men/">White Men</a>, par la philosophe Sara Ahmed (en anglais).</li>
+ <li>Le blog de <a href="https://mrsroots.fr/">Mrs Roots</a>.</li>
+ <li>Le blog <a href="https://badassafrofem.wordpress.com/">badassafrofem</a>.</li>
+ <li><a href="https://theestablishment.co/welcome-to-the-anti-racism-movement-heres-what-you-ve-missed-711089cb7d34">Ce post</a> (et tous les autres) de <a href="https://theestablishment.co/@IjeomaOluo">Ijeoma Oluo</a> (en anglais).</li>
+ </ul>
 
 <p>Si vous avez des recommandations, je tiendrai cette liste à jour</p>.
 

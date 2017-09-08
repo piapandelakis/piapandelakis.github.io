@@ -9,21 +9,14 @@ pia_pandelakis:
   avatar: avatar-pia.png
   twitter: PiaP
 
-carole_nosella:    
-  name: John Doe   
-  email: john@website.com
-  bio: "Masseur & Jardinier"
+irene_dunyach:    
+  name: Irène Dune  
+  email: irene.dunyach@gmail.com
+  bio: "Docteure en Design Graphique, co-fondatrice de la maison d'édition Les Presses Fantômes"
+  sujets: "Graphisme, édition, lectures, nouvelles technos, féminisme, nénuphars"
   avatar: avatar-empty.png
 
-francois_legroux:
-  name: Jane Doe
-  email: rms@gnu.org
-  avatar: avatar-empty.png
 
-julie_thebault:
-  name: Jim Doe
-  email:
-  avatar: avatar-empty.png
 
 
 
