@@ -6,7 +6,7 @@ categories: _post
 author: pia_pandelakis
 published: true
 image:
-  teaser: post3-thumb.jpg
+  teaser: post6-thumb.jpg
 ---
 
 
