@@ -8,7 +8,6 @@ published: true
 image:
   teaser: post3-thumb.jpg
 ---
-<h6>Illustrations : Irène Dune</h6>
 
 <p>Pour démarrer les curations du digeste, il semblait opportun de parler de digestion. (Je m'excuse par avance car tous les liens sélectionnés ici sont en anglais)</p>
 
@@ -36,3 +35,5 @@ image:
 
 
 <p>À bientôt.</p>
+
+<h6>Illustrations : Irène Dune</h6>
