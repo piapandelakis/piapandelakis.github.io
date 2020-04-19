@@ -3,7 +3,7 @@ layout: post
 title: "Quitter Facebook"
 date: 2017-08-01
 categories: _post
-author: pia_pandelakis
+author: saul_pandelakis
 published: true
 image:
   teaser: post4-thumb.jpg
