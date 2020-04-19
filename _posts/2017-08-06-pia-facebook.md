@@ -8,7 +8,6 @@ published: true
 image:
   teaser: post4-thumb.jpg
 ---
-
 <p>J’ai décidé de quitter Facebook pour 4 raisons. Je crois que toute personne un peu rationnelle devrait en faire autant — même si je n’aime pas trop me livrer à la prédication. Alors voici, en quelques mots, les raisons qui motivent ce choix, en espérant que celles-ci puissent trouver des échos chez quelques-un/e/s.</p>
 
     - J’en ai assez à un niveau personnel. Facebook me “pompe” une énergie et un temps précieux. Quand c’est intéressant, il s’agit en général d’informations que j’aurais pu obtenir par un autre biais. Quand c’est énervant / stupide / chronophage (et ça l’est souvent), je me demande pourquoi je me fais subir une telle expérience.

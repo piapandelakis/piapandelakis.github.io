@@ -3,7 +3,7 @@ layout: post
 title: "Peut-on parler calmement du véganisme ?"
 date: 2016-03-09
 categories: _post
-author: pia_pandelakis
+author: saul_pandelakis
 published: true
 image:
   teaser: post2-thumb.jpg

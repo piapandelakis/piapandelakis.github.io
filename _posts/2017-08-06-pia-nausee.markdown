@@ -3,12 +3,11 @@ layout: post
 title: "Lettre à ceux qui ont la nausée"
 date: 2016-03-09
 categories: _post
-author: pia_pandelakis
+author: saul_pandelakis
 published: true
 image:
   teaser: post1-thumb.jpg
 ---
-
 <p>Au lendemain du premier tour des élections régionales 2015, nous devons nous réveiller et re-faire face à l’évidence de résultats violents, effrayants, et pour tout dire, déprimants. C’est en tout cas, dans la classe sociale dans la quelle j’évolue, le consensus autour duquel <em>nous</em> nous rassemblons — notamment sur les réseaux sociaux. Cette classe, à laquelle nous n’aimons pas trop dire que nous appartenons, est celle des intellectuels de gauche, de la petite classe moyenne à fort capital scolaire, des employés de l’enseignement, de la culture, mais aussi d’autres domaines ; ceux pour qui le mariage gay était une évidence ; ceux qui ont rongé leur frein en attendant que Nicolas Sarkozy quitte le pouvoir ; ceux qui détestent le FN, parti de haine, face auquel il semble moralement juste de fabriquer une autre haine, celle du raciste, du misogyne, de l’homophobe. Cette classe est celle — bien que nous nous en défendions — des bobos.</p>
 
 <P>Le FN gagne du terrain, morceau de France par morceau de France. Cela est angoissant, surtout pour cette classe sociale qui est aussi une classe d’âge ; ainsi les jeunes bobos trentenaires se souviennent bien de 2002 : c’était souvent leur première élection. N’était-il pas étonnant d’entrer en citoyenneté en joignant tout de suite aux urnes la possibilité, la nécessité, d’aller manifester ? Ainsi étais-je de ceux-là, en 2002, qui sont allés brandir des petites mains jaunes stipulant « Touche pas à mon pote », en espérant que ce mouvement populaire contribuerait à inscrire ces résultats dans le panthéon des erreurs de l’histoire. Le Pen au second tour ? Un accident de parcours, voilà tout.</p>

@@ -3,7 +3,7 @@ layout: post
 title: "Curation #2 : Lieux spécifiques pour un altertourisme"
 date: 2017-09-26
 categories: _post
-author: pia_pandelakis
+author: saul_pandelakis
 published: true
 image:
   teaser: post6-thumb.jpg
